@@ -1,6 +1,8 @@
 import cv2
 import numpy as np
-
+#CRISTIANO MAGALHAES CARDOSO
+#FUNDAMENTOS DE INTELIGENCIA ARTIFICIAL
+#18/07/2024
 def main():
     video = cv2.VideoCapture('contador-de-rostos/pessoas-skiando.mp4')
     contador = 0
